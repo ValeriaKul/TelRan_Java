@@ -9,7 +9,7 @@ public class HomeWork_1_1 {
         int x = scanner.nextInt();
         System.out.println("Input Y");
         int y = scanner.nextInt();
-        System.out.println("X + Y = " + (x+y));
-        System.out.println("X - Y = " + (x-y));
+        System.out.println("X + Y = " + (x + y));
+        System.out.println("X - Y = " + (x - y));
     }
 }

@@ -9,7 +9,7 @@ public class HomeWork_1_3 {
         System.out.println("Input radius:");
         int x = scanner.nextInt();
 
-        System.out.println("The area of a circle with radius " + x + " is " + Math.PI*x*x);
+        System.out.println("The area of a circle with radius " + x + " is " + Math.PI * x * x);
 
     }
 }

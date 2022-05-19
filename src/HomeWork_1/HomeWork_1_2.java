@@ -10,7 +10,7 @@ public class HomeWork_1_2 {
         System.out.println("Input side Y");
         int y = scanner.nextInt();
 
-        System.out.println("The area of the rectangle with side X = " + x + " and side Y = " + y + " is " + (x*y) +".");
+        System.out.println("The area of the rectangle with side X = " + x + " and side Y = " + y + " is " + (x * y) + ".");
 
     }
 }
