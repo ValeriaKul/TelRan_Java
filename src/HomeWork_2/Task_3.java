@@ -8,8 +8,8 @@ public class Task_3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the length of the side of the cube: ");
         int side = scanner.nextInt();
-        int volume = side * side * side;
-        int sideArea = 4 * side * side;
+        double volume = Math.pow(side, 3);
+        double sideArea = 6 * Math.pow(side, 2);
         System.out.println("Cube volume = " + volume + ", side surface area of a cube = " + sideArea);
     }
 }
